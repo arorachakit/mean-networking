@@ -1,10 +1,11 @@
 # MeanProject
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+A simple networking/blogging application
+Created using Angular, Express, Node and MongoDB
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Runs on two different servers, one for front-end and on for backend rest api.
+Run 'ng-serve' in root and 'node app.js' in server folder.
 
 ## Code scaffolding
 
